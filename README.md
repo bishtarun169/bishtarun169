@@ -1,15 +1,80 @@
-## Hi there 👋
+
+<div align="center">
+
+# Hi there 👋 I'm Arun Singh
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Learning+DSA+with+C%2B%2B;Frontend+Developer+in+Progress;Currently+Learning+React.js;Passionate+About+Web+Development" />
+
+</div>
+
+---
+
+## About Me
+
+- MCA Student at NIT Allahabad (Batch 2025–28)
+- Learning Web Development and Data Structures & Algorithms
+- Currently focused on React.js and modern frontend development
+- Skilled in HTML, CSS and JavaScript
+- Practicing DSA using C++
+- Exploring backend development alongside frontend technologies
+- Interested in building clean and scalable web applications
+- Continuously improving problem-solving and development skills
 
 
-**bishtarun169/bishtarun169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tech Stack
 
-Here are some ideas to get you started:
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Backend *(Still Learning)*
+- Node.js
+- Express.js
+- MongoDB
+
+### Programming & DSA
+- C++
+
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Ubuntu Linux
+
+---
+
+# System Specs
+
+- **Laptop:** Acer Nitro AN515-45  
+- **CPU:** AMD Ryzen 5 5600H (12 Threads, Up to 4.2 GHz)  
+- **OS:** Ubuntu 24.04.4 LTS  
+- **RAM:** 8GB DDR4  
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/bishtarun169">
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="https://www.linkedin.com/in/arun-singh-31120624b/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Code • Learn • Build
+
+<img src="https://komarev.com/ghpvc/?username=bishtarun169&label=Profile+Views&color=0e75b6&style=flat" />
+
+</div>
+```
