@@ -41,7 +41,7 @@
 - Git
 - GitHub
 - VS Code
-- Ubuntu Linux
+- Kbuntu Linux
 
 ---
 
@@ -49,7 +49,7 @@
 
 - **Laptop:** Acer Nitro AN515-45  
 - **CPU:** AMD Ryzen 5 5600H (12 Threads, Up to 4.2 GHz)  
-- **OS:** Ubuntu 24.04.4 LTS  
+- **OS:** Kbuntu 24.04.4 LTS  
 - **RAM:** 8GB DDR4  
 
 ---
