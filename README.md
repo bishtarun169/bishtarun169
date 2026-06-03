@@ -11,7 +11,7 @@
 
 ## About Me
 
-- MCA Student at NIT Allahabad (Batch 2025–28)
+- MCA Student
 - Learning Web Development and Data Structures & Algorithms
 - Currently focused on React.js and modern frontend development
 - Skilled in HTML, CSS and JavaScript
